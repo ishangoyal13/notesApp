@@ -7,13 +7,13 @@
 3. First run `npm install` command
 4. Then use below commands according to your use
 #### Commands for the app -
-- Adding a note
+- Adding a note  
         `node app.js add --title="note_title" --summary="summary_for_note"`
-- removing a note
+- removing a note  
         `node app.js remove --title="note_title"`
-- list all the notes
+- list all the notes  
         `node app.js list`
-- read a note
+- read a note  
         `node app.js read --title="note_title`
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
