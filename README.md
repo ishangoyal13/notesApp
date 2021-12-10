@@ -14,6 +14,6 @@
 - list all the notes  
         `node app.js list`
 - read a note  
-        `node app.js read --title="note_title`
+        `node app.js read --title="note_title"`
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
